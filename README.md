@@ -10,6 +10,7 @@
 | 监控街头档案 | 把照片变成 gritty 街头监控档案风格，含深色噪点背景/红蓝小视窗/标注线框/扫描线 glitch | `surveillance-street-archive_SKILL.md` |
 | 技术档案扫描 | 把照片变成低饱和冷灰调 + 荧光绿扫描框 + 编号线框 + 错落信息框的技术档案风 | `technical-archive-scan_SKILL.md` |
 | 街头数字拼贴 | 把图片处理成真实摄影基底 + 抽象主体 + 漂浮黑白切片 + 几何连线 + 少量高亮撞色的 glitch-pop 拼贴风 | `street-digital-collage_SKILL.md` |
+| 都市剪影诗语 | 把图片处理成低饱和城市街景背景 + 彩色人物剪影 + 散落白色诗意文字的电影感叙事风 | `urban-poetry-silhouette_SKILL.md` |
 
 ## 封面图
 
@@ -19,6 +20,7 @@
 - 监控街头档案：`https://raw.githubusercontent.com/shift-ailab/shift-skills/main/covers/surveillance-street-archive.jpg`
 - 技术档案扫描：`https://raw.githubusercontent.com/shift-ailab/shift-skills/main/covers/technical-archive-scan.jpg`
 - 街头数字拼贴：`https://raw.githubusercontent.com/shift-ailab/shift-skills/main/covers/street-digital-collage.jpg`
+- 都市剪影诗语：`https://raw.githubusercontent.com/shift-ailab/shift-skills/main/covers/urban-poetry-silhouette.jpg`
 
 ## 使用方法
 
