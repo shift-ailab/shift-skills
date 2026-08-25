@@ -8,13 +8,15 @@
 |-------|------|------|
 | 复古专辑封面 | 把照片变成复古胶片框 + 手写文字风格，含暗角/颗粒/漏光/暖调单色 | `vintage-album-cover_SKILL.md` |
 | 监控街头档案 | 把照片变成 gritty 街头监控档案风格，含深色噪点背景/红蓝小视窗/标注线框/扫描线 glitch | `surveillance-street-archive_SKILL.md` |
+| 技术档案扫描 | 把照片变成低饱和冷灰调 + 荧光绿扫描框 + 编号线框 + 错落信息框的技术档案风 | `technical-archive-scan_SKILL.md` |
 
 ## 封面图
 
-封面图放在 `covers/` 目录，供各 Skill 文件中的 `cover` 字段引用。各 Skill 的 `cover` 字段指向 GitHub Raw URL：
+封面图保留在 `covers/` 目录，供参考与展示：
 
 - 复古专辑封面：`https://raw.githubusercontent.com/shift-ailab/shift-skills/main/covers/vintage-album-cover.jpg`
 - 监控街头档案：`https://raw.githubusercontent.com/shift-ailab/shift-skills/main/covers/surveillance-street-archive.jpg`
+- 技术档案扫描：`https://raw.githubusercontent.com/shift-ailab/shift-skills/main/covers/technical-archive-scan.jpg`
 
 ## 使用方法
 
