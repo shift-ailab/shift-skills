@@ -7,6 +7,7 @@
 | Skill | 说明 | 文件 |
 |-------|------|------|
 | 复古专辑封面 | 把照片变成复古胶片框 + 手写文字风格，含暗角/颗粒/漏光/暖调单色 | `vintage-album-cover_SKILL.md` |
+| 监控街头档案 | 把照片变成 gritty 街头监控档案风格，含深色噪点背景/红蓝小视窗/标注线框/扫描线 glitch | `surveillance-street-archive_SKILL.md` |
 
 ## 封面图
 
@@ -21,10 +22,7 @@
 
 ## 替换封面图
 
-`SKILL.md` 中的 `cover` 字段是一个公开图片 URL。本仓库的封面图经 GitHub 公开后，可替换成如下 Raw URL：
+`SKILL.md` 中的 `cover` 字段是一个公开图片 URL。本仓库的封面图经 GitHub 公开后，可替换成对应的 Raw URL：
 
-```
-https://raw.githubusercontent.com/shift-ailab/shift-skills/main/covers/vintage-album-cover.jpg
-```
-
-把 `你的用户名` 换成你的 GitHub 用户名即可。
+- 复古专辑封面：`https://raw.githubusercontent.com/shift-ailab/shift-skills/main/covers/vintage-album-cover.jpg`
+- 监控街头档案：`https://raw.githubusercontent.com/shift-ailab/shift-skills/main/covers/surveillance-street-archive.jpg`
