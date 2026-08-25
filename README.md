@@ -1,6 +1,6 @@
-# Lovart Skills 合集
+# 设计 Skill 合集
 
-这里收集了我搭建的 Lovart 设计 Skill。每个 Skill 是一个 `SKILL.md` 文件，可直接复制到 Lovart 的「Create a Skill」中复用。
+这里收集了我整理的设计类 Skill / 提示词模板。每个 Skill 是一个 Markdown 文件，包含完整的风格定义、工作流程与关键约束，可直接复制到支持自定义提示词或 Skill 的 AI 平台中使用。
 
 ## 包含的 Skill
 
@@ -11,18 +11,13 @@
 
 ## 封面图
 
-封面图放在 `covers/` 目录，供各 `SKILL.md` 的 `cover` 字段引用。
-
-## 安装方法（单个 Skill）
-
-1. 打开对应的 `SKILL.md` 文件，复制全部内容
-2. 在 Lovart 打开 Skill Book → Create a Skill
-3. 把内容粘贴进 SKILL.md 文本区
-4. 保存为 My Skills 即可使用
-
-## 替换封面图
-
-`SKILL.md` 中的 `cover` 字段是一个公开图片 URL。本仓库的封面图经 GitHub 公开后，可替换成对应的 Raw URL：
+封面图放在 `covers/` 目录，供各 Skill 文件中的 `cover` 字段引用。各 Skill 的 `cover` 字段指向 GitHub Raw URL：
 
 - 复古专辑封面：`https://raw.githubusercontent.com/shift-ailab/shift-skills/main/covers/vintage-album-cover.jpg`
 - 监控街头档案：`https://raw.githubusercontent.com/shift-ailab/shift-skills/main/covers/surveillance-street-archive.jpg`
+
+## 使用方法
+
+1. 打开对应的 Skill 文件，复制全部内容或按需提取正文提示词。
+2. 粘贴到你想使用的 AI 平台（如 Midjourney、ChatGPT、Claude、Kimi、豆包等）的提示词/自定义 Skill 区域。
+3. 根据平台要求保存为自定义 Skill 或作为系统提示词使用。
